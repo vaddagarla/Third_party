@@ -1,0 +1,22 @@
+#
+
+<wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='Create Purchase Requisition' />
+<sap id='usr/subSUB0:SAPLMEGUI:0013/subSUB0:SAPLMEGUI:0030/subSUB1:SAPLMEGUI:3327/cmbMEREQ_TOPLINE-BSART' tooltip='Document Type' />
+
+
+<wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='Create Purchase Requisition' />
+<sap id='usr/subSUB0:SAPLMEGUI:0013/subSUB0:SAPLMEGUI:0030/subSUB1:SAPLMEGUI:3327/cmbMEREQ_TOPLINE-BSART' />
+
+
+<wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='Display Purchase Req. *' />
+<sap id='usr/subSUB0:SAPLMEGUI:0010/subSUB1:SAPLMEVIEWS:1100/subSUB2:SAPLMEVIEWS:1200/subSUB1:SAPLMEGUI:3102/tabsREQ_HEADER_DETAIL/tabpTABREQHDT2' text='Release strategy' />
+
+
+<wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='Create Purchase Requisition' />
+<sap id='usr/subSUB0:SAPLMEGUI:0010/subSUB1:SAPLMEVIEWS:1100/subSUB2:SAPLMEVIEWS:1200/subSUB1:SAPLMEGUI:3102/tabsREQ_HEADER_DETAIL/tabpTABREQHDT2' />
+
+
+
+To note:
+#After clicking Chk button, Release strategy tab is appearing if it's applicable.
+And if we miss/overlook to chk for "Release strategy tab is appearing or not" & if we proceed for SAVINg the PR, then that Release strategy tab is getting disappeared.
